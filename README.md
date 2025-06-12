@@ -1,7 +1,7 @@
 ## Hi there, I am Pain also known as Almighty Pain 👋
 
 
-**Here are some ideas to get you started:**
+**About me 👇:**
 
 - 🔭 I’m currently working on **RAGE**
 - 🌱 I’m currently learning **NodeJS** and **Python**
@@ -11,7 +11,6 @@
 - 📫 How to reach me: Discord - **@_almighty.pain_**
 - 😄 Pronouns: he
 - ⚡ Fun fact: ...
--->
 <!-- Snake Game Repo View -->
 
 <div align="center">
