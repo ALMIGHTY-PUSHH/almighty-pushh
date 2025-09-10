@@ -6,11 +6,11 @@
 - 🔭 I’m currently working on **RAGE**
 - 🌱 I’m currently learning **NodeJS** and **Python**
 - 👯 I’m looking to collaborate on Discord
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about discord bots and hosting
-- 📫 How to reach me: Discord - **@_almighty.pain_**
+- 🤔 I’m looking for help with free hosting
+- 💬 Ask me about discord bots and servers, coding, programming, editing, graphic designing
+- 📫 How to reach me: Discord - **@__almighty.pain__**
 - 😄 Pronouns: he
-- ⚡ Fun fact: ...
+- ⚡ IN MY PRIME
 <!-- Snake Game Repo View -->
 
 <div align="center">
